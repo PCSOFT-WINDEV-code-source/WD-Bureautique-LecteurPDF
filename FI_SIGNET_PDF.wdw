@@ -1,0 +1,322 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_SIGNET_PDF
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_SIGNET_PDF
+ identifier : 0x2340397e23030e68
+ internal_properties : CAAAAAgAAACRc92sYvFlbEOCLbg7Z4kdcWgkF8M3rPFl+IC6L8K+ImIErK94tP8P+D3GC3iSxiGYMmoh7ddFfSyCP/dsSUyrdd9K3hIix+xyy+FTOqjZeE8eFEd+JK2V6r+NlSZ1XLqgEFzr+moH3zeP4eaiu+yyG+QYPEhxED/4+MS05Zx3O7Hbcuqny6DcTH4tn8NWka9gsSIdlIrCcs5FePWvTJlRzgPwdvpG+P2rI/8BssH3rosW0vekVgFWKc4Iq++y7Ko1YzJc7MuYkDCCUlh7F6b0ryho5yjz1oSKxVdLmW3XIzk0ZI18v2QNwKFqiwa0UTP9qVbD8QWWtTwNNGLbseyEmyii11EGbmoaU4IBkXLcMEOClC09EsGE4ZDY3mFcThuTOgMbi5tJLvODcPploIzIzPWTk2hFIe1TZZnH29K9XK0NzeC0gaq0WefQ8OilxqMSGW3GOnGFLy6wc0UTBnarHhaBUyC8eHq8BuMikrxSWiugekwC7aJNYmuZZIRZ1wl7W7IIhF1a4/BA4sp6o3fAruM046hH3/6VXRSOOqGKHQmsXcsjCgEpWpx0/fOWw18uK9Ug1ic4t+D5FGG11Ka4dq+Lu2XRtSpZcQEjhdIrw48SHelFgjKlKNSdHfcGDOHNRcuMtPoq9V93DjRzMvSLLf1owR/wld/okYBy0XmUTVQJdYQ0IghEo0VY7go=
+ properties :
+  width : 220
+  height : 480
+ controls :
+  -
+    name : FI_SIGNET_PDF
+    identifier : 0x2340397e23040e68
+    internal_properties : CAAAAAgAAAC+xCO2Dx7OMyrW6PZG/Hgdj3itZaXJzXMGChghK+v/Cy06g6u2vZ6+1ZCi5leLif+3r2XDk5S9CfkbzBl13paeBoNyTsfd12oZrvIXaZbmvfafkTCTnVI9IxzR+LIZMbNUgwBNK3WUKppR1wUES47RUUMp4RsRJ0gURzvCuh/hMl3XMoDd8X5zIeekfCxX75s1rhcaakQ7gOudK0qIAJXRpsgFCSywZMQS9gDiOdFupuYVFrwGabsyk0oXQIAHT1QzYDrAoAv+tJErAhv4F6xoj5UXBYoUQJn1kspE/koIXQWjHPQ7X//MtoQFronplwE+w5mHP61wmA1YvqUR4KYsmWo3lYs/NJ6YVbz9inXxC69ggCJLdv9v8qD4k96aLaTgk323iIQkf98Oy9RlicQGSm04gzGaqPG6ijmPE5kIYz9/FHJUN/GmHbPt0lqsV5NxtWNdtSXJkudlsQZORE7d8usUFRE=
+    properties :
+     width : 220
+     height : 480
+    controls :
+     -
+       name : LIB_BOOKMARKS
+       identifier : 0x2340398d23984835
+       internal_properties : CAAAAAgAAABB5rzXRR5SZns5cGfpXk6HSkRrwiONuVAqGjLnpQY/HfAQtAMIiWrwfz2PIN0DFSIYzmhlDboY9t5WXewrOE8THqBy5lg/0DJVsn5QzOsM7ct93MSQvDSDuLoC4DJUewAEFg5JnC5YZglpG2p1k/TaoBnalbO5O9WVZg1zpVQKlRFvklqVZZhwHVAMKIKg2WkMA1fWFhMBqhsRXkju1Abo/s9vYNiZAAIuBlRgepmLOwM3kCGJSm6wi9kWMPMC1SUcVftazYQc8VtqtOHq5OiERd9dETx7xtwvlGRunKxUGDHSiT75VL3dqBU8GNAUybZKxSGaxjc/6BcPyuW4vxV82GFyNKDRwWOTZYIwSbKtCZ4nY1NpxNRn4qkh8lVAQ3lvVjJuvdaCKp2VB7a3rfDYllP66Vb5+Ws/s/iou/nZmU0wbE3gj7SioDcD954VPraipKzBAEiocRb4fvUBB8WuJakNG7MG4d2sWFQQ0J0Q89ghhvxUY1VsPYVrNX6/hlkhP2mnxi1OVkdIwA==
+       properties :
+        x : 12
+        y : 12
+        width : 173
+        height : 28
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TABLEH_SIGNET
+       identifier : 0x23403a7227b8c805
+       internal_properties : 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
+       properties :
+        y : 47
+        width : 220
+        height : 433
+       columns :
+        -
+          name : COL_LIBELLE
+          identifier : 0x23403a7227bbc805
+          internal_properties : CAAAAAgAAAB8otjDvEsIFPh3U8zd8+6jRpZ6/7j56Lu4/2IE6lp1wCl0Ge7Tpi+H/+DZtRfpWc5znqZiqiTDz2hjAI3EYJlSkUaPod/ew2l6qcNwSfyYfZuxzYJdjPWZyklE4IJl59FSiTb1MlknFQH4Qd9DHmQvkv1nOjoC2t6lnP95biBeOgcnSB4ZZ8LDTDek2HmOEa1y7ny5i1UvOrrLcY/dxg==
+          type : 2
+          content :
+           internal_properties : CAAAAAgAAABJzd8YoRYk9uCu4mqIAiPq2KspMGvxIPgHqEGU4NOkzQRluPnpBpmxej3rsnQUJsAn3aeJwtf6jK4sVzyTTAEIPCfBJmX2IcPN9vnXMLeg5ZsQmeSKKLd+Uc4AZ2XDd9qaEwEGZZN2nKTymZw3z53LHTqBt7FMg2ZHR6E4Ss/ynfmQ5M5uAGbdrTZvsqd4ZyLXKymD3Vz6r8rk7mW1JP/2OL06ljMxYb16g9sXBzDxdHplEFiyHZjElAQk+rwBv/zDGfC4vT44dmS5VL67YgrDocClf3y7/msyo8mmuL8dBmA3CeJgRJBUKR4/xK8H/Crs1EmMRjZTET3kPSPwSaAO3il1DQck0EWCuena/B8LMFTWX/6p6VYkQmdAgrPIel3Y8hZwWGDLJbuYdve8A1Wrw/kS9NL9uvQxhEK7Uv+0F2nUXZRrbWfF0SN1h8V63lN7vG/u727AzvEiCFqWLQNUtToOAO6tuFylAAinDjTwvjo5wtEb2wnU4//l7MnmCl+1ZGW4rQI0fj/ktzYHbqGY1gppQrM2jWXvfW0yrhFO94AiU5JxkqslM8zsNeyjsMurlK+thbBAyhMyy6HKK5PLbj6oHfyQHWu6MHHYvzmS7OM+wg==
+           type : 2
+          code_elements :
+           internal_properties : CAAAAAgAAACN0rrrFJjE1w6dokMbeExsUoJCuC9SG+4YNST0dcve0bE16wVCmcBCvfDuwvxCpJw9qZir2h+ZpDT7OJciqzxsmpBcGh4=
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+       type : 35
+       controls : []
+       code_elements :
+        type_code : 89
+        p_codes :
+         -
+           code : |1+
+            
+            global
+            ChargementEnCours est un booléen
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           type : 22
+           enabled : false
+         -
+           type : 24
+           enabled : false
+         -
+           type : 23
+           enabled : false
+         -
+           type : 25
+           enabled : false
+         -
+           code : |1+
+            
+            si ChargementEnCours alors retour
+            stSignet est un pdfSignet = TousLesSignets[ TABLEH_SIGNET.select() ]
+            LecteurPDFAfficheSignet( Lecteur, stSignet )
+           type : 33
+         -
+           type : 230
+           enabled : false
+         -
+           code : |1+
+            FinAutomatismeProcédure(RedimensionneLigne)
+            RedimensionneLigne()
+           type : 65541
+     -
+       name : LIB_DEFAUT
+       identifier : 0x2340466460a272bc
+       internal_properties : CAAAAAgAAACfIBa4JwJ8tG8q2v8dRk1nl5bHl9MWHobGedhs1bOw31T7AeBg24TitUt6Nzrz9Vja5yIzrBHyWGJsxMrJ21t7TF9rB5jlk6S3twXQZUqKQg59sWF/rKct28RZ4cZauQwIjpXt8Xhm+HqyGlSWHVUFHNYGCDBneube9ERYxTCkgzBE8Un3j3jvO/S53IVJfp1VOthhglSxDoSK50NLAJow/0wsIbAOfhNF2yr0DRHXpJZvZRie7G3yuDJBH9NKJdDsjmwU8V3F2J6KvusBa1tu/ycaK98SNVjKTv3zMlggaeYtSeTWgyY63a8f9XBxPcynitdMcfAxI9BIJWyDP7PdIEcAdXlJp11eu7g+kCFVG0p7IsQ+Mfd/95JIDaVb3I2BVpMYGMcofcj2bveAGA158VmiutuMDEcA9NVkL9EWrw9nRQLmG7FdvIeLzxOs2TRJTZqYAnR9nhf2tO5RQ0kQOi3SZIqLRfhxkhmsRu4C+aSZeINy7Cj87MIEjPyZDQyKGFx0GlMtSwDE39ON0ySJ1/vODDg=
+       properties :
+        x : 67
+        y : -38
+        width : 142
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_Enroulé
+       identifier : 0x235791369de217bc
+       internal_properties : CAAAAAgAAAAlnAPGhw9odTuM2YDdt2j97TimfjNXhuRiU8621UCQESBzyGl7odtzWcwTtE36wfOKY01sZ9Kl86UGpTHrwTORRcCPaGgovm4ObpIq8AXbuLY52mTdV7bQQFCA2QXLmgGAJCfSjoCAD74ZsCl5JAW6OY3I+q6cWzZnv4UW23LM5+jKIvq20YDi2OQJ8zzCFPOWeiOvNwTqxuHDxqlgV4LhhBB/SdF2ZPi+CEUhHTUGd61CHsv33TZc6bDGHhVBHXdS2I8kV8tbGZs/KlearOghKXL0INCGQSuITAx+ieJeccPM6JUJyyUw7y1dwzs85W0mFiwp98JNVTAI4b9TRbZSjF3E1x9uho5OgJy83msXGQmwIorgE4EMMUcnZVjGXDrcD20q1CDzb2l5cbn0PUk6YzMtKqBTq2L6UEXvKzjWdgvRv4ugq2w+aTr2qPVb2ZMrquzW3driRjCfkEerukQ2Gsr+uR94t2cF1XyaJM1IinrYRShFhDVD3ezZT8/HUr7dgA3v8cIf6loIF33Tekd96bjmZvlhhgoQi/JJ9KsMpt0Cj2OQ26IX8wJ5KpKNFRv2x29e1M8lYjEx1ppzkJ8hm9uzNLXR15Nr0WbdczNdB5vCkqG4dD+ebjWTPcBzACwFrFvtIL8=
+       properties :
+        y : -33
+        width : 22
+        height : 22
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Déroulé
+       identifier : 0x235792039e623b05
+       internal_properties : CAAAAAgAAABlgWd7UAZkB61FY4URHX+xLMiHxzIjbON26GKPPqWVYOfuNDa8W7eS6NBEw++63zOkWDCYlwWfIe8YOo0aELRLFUUvaRfJdlQ86RhG6D9EwrL3sGEFn0YSTx3Oh2QtjC+znerSxt0Fbv3xaJxcOINakb9JnTNkFRHM0yNzCC6cQxbRbNp/y8BdPyi89/83xNpcmC2iOZCK2+fzB+vL+sG+ib6hkk8g/jlUtZSfZpryh88M5ebcpkB9I0IDTVnKYE4rOWw2ZbbzANgQ7r29ch1PJQ2PM10ytl4NuNHPRo11RS0hgNpIsIGrXQIQVP8L8Z+SVPihsTEV13hTnxMUBGtVqt/W82mOJynYHjBpq1XqId8ym71SdKBDKhyrpGmB556AR79OwVYY2OOzXFRT+5Ia6mN5wjkfk2dabJqhq5p29i0KGoiI2CfTK3PbnVUtB6wETd4VpQtcvuLadL/8W/msJr0PCm3HOEhI7+SnbyXoMMwqTG4f6Hp2qvxahm71GbdbLoIq6kIJtDSiopgEvOrpsYlHwVHqNn4PVbG/0do8dgM5+Bfd82/8A81lk2PF34hPxVT40nLHO2HvRjyWZjh8xtBu87O4bffp5TOxN/yE8fQ2lAo3VGgtwA/DzyFQfXZY7A==
+       properties :
+        x : 35
+        y : -32
+        width : 22
+        height : 22
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre()
+         
+         Lecteur est un champ
+         TousLesSignets est un tableau de pdfSignets
+ menu :
+  name : _Menu
+  identifier : 0x234039752300eb6f
+  internal_properties : CAAAAAgAAADr3pbrtpC4wpS8Uu9VfRbbRjL4kULgPf+Z41fVCbeIvreKecodkgZ+aWbp0lsxXm5Wg8saw++SqLa8o66xCtNWh/vFIlcyx4GKwL4gIy4hxcjqHyswwWulExSqHkcaz8QgSIOc7aLmrDcQRXZHOVEr5bi5ddmt4Lt99YvpVmecMbxX9PV6Nu2d6ltTN3iMvYNAHE7jzPN61Y7TcyYO1+T0CiryPVSPPBDX0My65dOeAd/v3IdIuwctl/YGfrbDnlrFy6FjC7Uqrqdiq/cHZ2seJcCMuwqH4A==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : ChargePDF
+     internal_properties : CAAAAAgAAAACQ53Vux4CrTY2d/A/dXt2+MWqpfonuZC1jxrEGFWAz/437fGHw2lY+SrzYWgcTsmkHzFQqnzvUo39gnwZUO/i573V+qpoHTzFhoRnXXCVGgG+3eQn6r0ePF4rfJ3INfyhnoy/5OEuRbpOJr3Z
+     procedure_id : 1387173831457565580
+     type_code : 14
+     code : |1+
+      // Résumé : Charge les signets du PDF
+      // Syntaxe :
+      //ChargePDF (<LecteurPDF> est champ)
+      //
+      // Paramètres :
+      //	LecteurPDF (champ) : Champ Lecteur PDF lié
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure ChargePDF( LecteurPDF est un champ )
+      
+      // Mémorise le champ Lecteur PDF lié et charge le document
+      Lecteur <- LecteurPDF
+      docPDF est un pdfDocument = Lecteur..Valeur
+      
+      // Initialise l'affichage
+      TousLesSignets.SupprimeTout()
+      TABLEH_SIGNET.SupprimeTout()
+      
+      // Si le document ne comporte aucun signet
+      si docPDF.Signet..Occurrence = 0 ALORS
+      	retour
+      FIN
+      
+      TABLEH_SIGNET.ChargementEnCours = vrai
+      
+      // Mémorise la hauteur max pour une ligne de signet
+      nMax est un entier
+      nMax = HauteurLigneMax()
+      
+      // Énumère les signets
+      __EnumèreSignet( docPDF.Signet )	
+      
+      // Supprime la sélection initiale
+      TABLEH_SIGNET.SelectMoins()
+      TABLEH_SIGNET.ChargementEnCours = faux
+      
+      	procedure interne __EnumèreSignet( tabSignetsEx, nParent est un entier = 0 )
+      		
+      		stSignet	est un pdfsignet
+      		nLigne		est un entier
+      		
+      		// Si aucun signet fils, supprime les images "enroulée" et "déroulée"
+      		si tabSignetsEx..Occurrence = 0 ALORS
+      			si nParent > 0 alors
+      				TABLEH_SIGNET[ nParent ].ImageDéroulée	= Null
+      				TABLEH_SIGNET[ nParent ].ImageEnroulée	= Null
+      			FIN
+      			retour
+      		FIN
+      		
+      		// Pour chaque signet
+      		pour tout stSignet de tabSignetsEx
+      			
+      			TousLesSignets.Ajoute( stSignet )
+      			
+      			// Signets pères
+      			si nParent = 0 ALORS
+      				
+      				nLigne = TABLEH_SIGNET.AjouteLigne( stSignet.Titre )
+      				// Les pères sont enroulés par défaut
+      				TABLEH_SIGNET[ nLigne ].Enroulé	= faux
+      				
+      			sinon
+      				
+      				nLigne = TABLEH_SIGNET.AjouteFils( nParent, stSignet.Titre )
+      				
+      			FIN
+      			
+      			// Par défaut, ajoute les images "enroulée" et "déroulée"
+      			TABLEH_SIGNET[ nLigne ].ImageDéroulée	= IMG_Déroulé
+      			TABLEH_SIGNET[ nLigne ].ImageEnroulée	= IMG_Enroulé
+      			
+      			// Adapte la hauteur de la ligne au titre du signet
+      			TABLEH_SIGNET[ nLigne ].Hauteur = min(nMax, max( CoordonnéeEditeurVersEcran( 32 ), textehauteur( LIB_DEFAUT, stSignet.Titre, tAvecMarge + tMultiligne ) + CoordonnéeEditeurVersEcran( 8 )) )
+      			
+      			// Enumère les fils
+      			__EnumèreSignet( stSignet.SignetFils, nLigne )
+      			
+      		FIN
+      					
+      	FIN
+     type : 458752
+   -
+     name : RedimensionneLigne
+     internal_properties : CAAAAAgAAAAw3ciPMuWjU4J5ex0LTlIGE7vkL7I+ujMoW20FOISyBd4lzZ5MnyKqIGjHJoiF6B45vlYKqkLYhL86DFiCbUITtT35hSGgTQzGYeZpouxH+LtX1TgBoSEw
+     procedure_id : 1402415583650822892
+     type_code : 14
+     code : |1+
+      // Résumé : Applique un redimensionnement auto des lignes
+      // Syntaxe :
+      //RedimensionneLigne ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //// Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code, avec un différé de 20 centièmes de seconde
+      // 
+      
+      procédure RedimensionneLigne()
+      
+      nMax est un entier
+      nMax = HauteurLigneMax()
+      
+      TABLEH_SIGNET..AffichageActif = faux
+      
+      POUR TOUT ligne nLigne de TABLEH_SIGNET
+      	// Adapte la hauteur de la ligne au titre du signet
+      	TABLEH_SIGNET[ nLigne ].Hauteur = min(nMax, Max( CoordonnéeEditeurVersEcran( 32 ), TexteHauteur( LIB_DEFAUT, TABLEH_SIGNET[nLigne].COL_LIBELLE, tAvecMarge + tMultiligne ) + CoordonnéeEditeurVersEcran( 8 )) )
+      FIN
+      
+      TABLEH_SIGNET..AffichageActif = vrai
+     type : 458752
+   -
+     name : HauteurLigneMax
+     procedure_id : 1402417623793399811
+     type_code : 14
+     code : |1-
+      // Résumé : Renvoie la hauteur maximale autorisée pour une ligne d'un signet
+      // Syntaxe :
+      //[ <Résultat> = ] HauteurLigneMax ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	entier sur 8 octets : Hauteur maximale autorisée
+      //
+      procédure HauteurLigneMax()
+      
+      // Autorise uniquement 4 lignes max
+      renvoyer TexteHauteur( LIB_DEFAUT, "Ligne 1[%RC%]Ligne 2[%RC%]Ligne 3[%RC%]Ligne 4", tAvecMarge + tMultiligne ) + CoordonnéeEditeurVersEcran( 8 )
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenêtreInterne1
+resources :
+ string_res :
+  identifier : 0x13403975098beb6f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

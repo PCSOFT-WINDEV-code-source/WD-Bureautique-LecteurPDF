@@ -1,0 +1,109 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Bureautique LecteurPDF
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAAHfziSqUHu+sYnTF6lqYWuMhS1deP3uwrlJzRlSg7m/Y1gb3NeTS5gFDTnOcdqcv4Ba2aHOVbCcZFVLwK8VZOsPn2yGuxlsLR1ywJ1rAo8dqXOfC2OACiY3idcQW6AGbw2vtZz8o0CtdoWi5mw0HPBdWYuGoAqjURCTtshs6G/gLhkR+uSmppqBatWFEAjaeX5zFMaCfjUmrXTg/g20HLj/vK6P+osxgF+adWbHJKyjmQODSmLh1PFBF8huCCn2qVOPt5hlO5TE2D4S2rW+2taReABf30FzHCM6RW9g3ELIzQbI8bo4XwuyR06RMjk5/99llpHUQ+TELFXLRxXwr9ELJgXjnpbAK3GGR9S5ydxapQml0GEvxPKC/rLzL0Ro8KU+bdi5p5Y2vm8KC1RiLUg/XWZTM5N+I3EngRYrsgArJX/8NEO7+ayA3fg9gX2rSlO4FzOXLt2LI5DTquPJP7pg0qPhmNX51QB1Z2rxnVBQ3vz5sQCzy+YkoAVAZb+rEuygd36b+WpjIJv8pAdapFQUNQQoKUGQRGmjqnkZA/A0+O7Ts4Sv7WuZtt5HbQX0bUhtwPjbKl3FQOFzVsuMUjNDrajINlspIgrY9ZYp4RKkMzLWwNtfELECysQMnDXovGjD+lyAPMtdkY1TAjZwccvLTE8j4xCclzjDBRSdDzuRr6lEaZaadV9d68ddTvNn2LXpi6zWxhU57friwM5Dfv4lHC3dyPyUXRRzuDzXNm4ogy/CPNdjv+V3H8arwHVEQ09IyuJdT6wyuX8utIZPDaZXKeHB/UONCjcE55KdSF9sXBnXAkZrHCGmMqAnCXTSmy7bJbfXtNM84ZVSEH7a2tlLuYMinIET7rDe2NCdBV1t8JBDwvcREZE5lTOIjQW3rfAoz3Ub3MwfTgna24fPS6yDbFvPomyEO5Ep8juVSdHkW03yCxi+bpt+adNHsa1WHXRNM01ieveIu7xRNltGUq1eoESrbbHDGE5k5NhZc14ISyCcsUq++WVvgR85gfn7HZrPnYiNyIpludbq1drg9cDupPyJ7WyiotbPCfVLLl7m18iK2faAmXw403JpROarJCbxbL114wNFXFKav3aeOO2RwSCF8MpDvpNM64td1kLA+lkwgM6J/w8wrKJIdC3lQUEa+XBWeIgmmNGbRo328HtJBjOBy0Nnn3D9amdxkav31N5gCwEB70DqT1VpWXBiHfzPpCs+lhS8KK9DtEUJhTA9WJ0caNCwMiKu/r4vDUq5itVCLdaMEcU1VUNTtwOIrxFm7Im5xQdKgIH60ZXXQOypvPrbMvmszaKxq7f7PZ+QJccghG6NM5lOpXzQ55QZf/si470fFRi2/cFJxQv7jqVpPxtC/p8uFnADPwEkS9564FPAw/wrhm0UnlyBQ3sBstnNMw3eQtyt0Uki8UhUaTk2+rJyNqisgW4HiTc5oRn1EFFq/heQnSjOA8dPuRP4ViN6MXwUtgKLTMK6Hk4h+8D15zDNZ0Bb5XcWubaQUaSl5rblByP2QVxaxHPaaymOSdEOtFXfYe/HGZ8Ta2l9yxXwsk/M5rZlViRltktlnFzC0SvAnAVC9wX7doFpjVR3c17iUUbSVOwATgNR+oDqQsuf99x4hchboGJ2HeUZWZUjYp5Ob8HmpN7AEnbq51l/Wy21I8F787LKEdmwvFlb/FB8BRjgz1R5BIXgjEKAt3erfzIRv2/ewKR4KFaIGP1zr9+HfUFiTDUnfjXIgQC85/4TLGJoQj0Ki0CKC+GYMnn1E+P5vXq2RvkmTDmQ7Og1rcW+GAQMVlZ7Z950b3PD3rGW10ysHlJ0FLC/YWkwlNVTjVWtU3hbK1Q1WrMzlz+AEv/hIoJxJjyZlCDMOAZBaxFpAkWzy03lZyyTjXgsykdotXv/SNoC+Maeur0lRTPga6zQovAsLqNRuuCIPNQqou8/VPI2Khj4EMPqKJ+xVuvtxHcFXtFFJAOSvcpPwF53wsE56cSS5JmNpOyFgrVKdXEz+L5Yp/8VYAG0GvF8Pj++u03eUlwHL6Gd22Lj8BwQL8XyvHZznV99gLr5cKYf1s1X6NZJQMywA7Z2kfy2xnDQIj9VCJKp2jP44bN4dPvwqimpQVbnR2tsPCe7fqSQT962X6joRnCeytQ8kxDkYxj6ntSJ+TL204APHaGKm43E9McBEBuhglOr9498d3w12PeS7hLbrlFo5PrRh4INgkJ9qWe4Jg8+r23Rlq+RvYOwtV1pvnckQBxyjW+yZRgercukTOnoFAOlSqVB1XCQ+6bCPagdUhNPn6h2viteRczW0cBRv706gaCdf5QTU5GaKLfG32FKJ38gm55UMYGMB85C6vuLp1qB9CoIc6t7AMsfV3ed/tJ6dOmMH90OifdoEbK+kRtNwntFE7+53YaMLYnTglwppVX3wXPyqy1GgwgUT5VIA5dZFEfVF4TGRxatynv3MUD65xAauhfOyxaWGU7fAEd41bx8UwsCqzcinS/EMXPG1q8Upoardun4mZ08obb2y8lSd6LL42p2BkTZn2dhMEZxEQIeHbgOOSYzZw1oU1DGRmkYTuZAKKuoVA/F4+kRuP3hsfmv7DNdm0zpajcehhe/nOloYorXWObBtJcbJaJWzXjieku7w==
+ configurations :
+  -
+    name : Exécutable Windows 64 bits
+    internal_properties : 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
+    configuration_id : 16476738335335448071
+    type : 1
+    generation_name : WD Bureautique LecteurPDF.exe
+    version :
+     major_version : 1
+     generation_version : 25
+     internal_generation_version : 28
+    icon_filename : .\description.ico
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4a143b3b004d039b
+  elements :
+   -
+     name : FEN_Principale
+     identifier : 0x4a143b68008ab130
+     internal_properties : CAAAAAgAAACpqwcD3OlZfTr4XBl5WtU4UGU0Cs07aIFK4PdPkQ8QYkUlN/x/NgZx/XyXIAPnULus
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : FEN_MotDepasse
+     identifier : 0x4a18399d005274a3
+     internal_properties : CAAAAAgAAACFge0xDqsDHCmX9n7IJfwNPUzkvKylw3a2UUWHLRJ4mLhYDWfUNAkUeq4okBDAuCiQkA==
+     physical_name : .\FEN_MotDepasse.wdw
+     type : 2
+   -
+     name : COL_PARAMETRAGE_PDF
+     identifier : 0x4a9521c90160803f
+     internal_properties : CAAAAAgAAABl4U1RbgsjPIm0CChtl4hRmeRQwIRN35F26YNBY8xGqm5S75HYKfAx2k5IsHBgGIhw8A==
+     physical_name : .\COL_PARAMETRAGE_PDF.wdg
+     type : 7
+   -
+     name : TEST_Principale
+     identifier : 0x4aec1661001a35e0
+     internal_properties : CAAAAAgAAADjX9vP/KkBGjtZrfwQjfPsSTqUFLJjixdO54x4/CPr3dMp9bB/QVA6iLwmkhLOqh7mbg==
+     physical_name : .\TEST_Principale.wxt
+     type : 17
+   -
+     name : FI_SIGNET_PDF
+     identifier : 0x4356c2df02771636
+     internal_properties : CAAAAAgAAADWvD5iQT52ecGKsl+5CRdFwFH/d73+r6eHNCcKNN81i711vVkZ4e6MopkD/YV7B/nDQw==
+     physical_name : .\FI_SIGNET_PDF.wdw
+     type : 8
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\WD Bureautique\WD Bureautique.wci
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WD Champ LecteurPDF.sty
+ wb_style_sheet : .\WD Champ LecteurPDF.wws
+ code_elements :
+  internal_properties : CAAAAAgAAADnTzAr5KSPAI7HM/Xx/k3v80zhdNmnUxVeAHKzvKqQ2vN61UosKpxu3kbZFCIpFhp2bNtSd3fuTj54H02cwd+kYhuZ1MeL7A==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACrompbD716K5HCk73WBtB/OFpEKrUB44UbtPo4lIvHFySBtZWKyWcLzAtMaatm3c7DvzVbLkeM51KP46hppWt2xJiOFJsoRmw85ZPWhroVDCpXYqpUSDbppFWUrIAWyQMsUDebVRCEN3H0zNfqQ211rOPt6/0cGRkwkde+mw0kJw==
+     code : |1+
+      
+      // Déclare au composant Bureautique l'extension gérée
+      // Le composant gère lui-même l'association depuis la ligne de commande (/shellassoc, /shellunassoc)
+      DéclareExtensions( "pdf", "Fichiers PDF" )
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Exécutable Windows 64 bits
+     identifier : 0x4a143b3b004e03f9
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
